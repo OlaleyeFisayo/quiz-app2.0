@@ -1,5 +1,5 @@
 import { createContext, useEffect, useState } from "react";
-import Blobs from "./Components/blobs";
+import Blobs from "./Components/Blobs";
 import Starter from "./Components/Starter";
 import QuizContainer from "./Components/QuizContainer";
 
