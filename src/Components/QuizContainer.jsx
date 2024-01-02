@@ -43,7 +43,7 @@ export default function QuizContainer() {
                     <p>You scored {scores}/{questions.length} correct answers</p>
                     <button
                         onClick={playAgain}
-                    >play Again</button>
+                    >Play Again</button>
                 </div>
             )
         }
